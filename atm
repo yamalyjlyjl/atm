@@ -4,7 +4,7 @@
 
 struct Account
 {
-	char username[100];
+	char username[100]；
 	char password[100];
 	
 	struct Account * next;
